@@ -1,0 +1,2 @@
+"usa strict"
+
